@@ -5,7 +5,7 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
+|Day 1| Project Description | Complete
 |Day 2| Wireframes / Priority Matrix / Timeline | Incomplete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
@@ -13,10 +13,9 @@
 |Day 6| Present | Incomplete
 
 ## Wireframes
-!\\wsl.localhost\Ubuntu\root\lessons\project-one\mobile.png
+Mobile Wireframe: https://imgur.com/IHim0L9
 
-!\\wsl.localhost\Ubuntu\root\lessons\project-one\web.png
-
+Web Wireframe: https://imgur.com/cH33Xpg
 
 ## Time/Priority Matrix 
 
@@ -24,8 +23,7 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Regular Nav | H | 1hr | hr |  
-| Hamburger Menu | H | 1hr | hr |
+| Regular Nav & Hamburger | H | 2.5hr | hr |  
 | Project Previews | H | 3hr | hr |
 | Adding Form | H | 1.5hr|  hr | 
 | Working with API | H | 3hrs|  hr | 
