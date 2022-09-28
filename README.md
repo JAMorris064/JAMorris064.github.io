@@ -13,8 +13,9 @@
 |Day 6| Present | Incomplete
 
 ## Wireframes
-\\wsl.localhost\Ubuntu\root\lessons\project-one\mobile.png
-\\wsl.localhost\Ubuntu\root\lessons\project-one\web.png
+!\\wsl.localhost\Ubuntu\root\lessons\project-one\mobile.png
+
+!\\wsl.localhost\Ubuntu\root\lessons\project-one\web.png
 
 
 ## Time/Priority Matrix 
