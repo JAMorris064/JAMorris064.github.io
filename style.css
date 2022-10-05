@@ -1,0 +1,29 @@
+
+  /* CSS Custom Properties */
+  
+  
+  body {
+    background-color: #78bf94;
+    height: 100vh; 
+    margin: 0;
+    display: grid;
+    grid-template-rows: 3rem auto; 
+    color: black;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+  }
+
+   li {
+    display: inline-block;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
