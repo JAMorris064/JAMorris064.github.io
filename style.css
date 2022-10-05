@@ -24,17 +24,76 @@
     text-align: center;
   }
 
-  h3 {
-    text-align: left;
-    padding: 30px 700px 30px 30px;
+  h1 {
+    text-align: center;
   }
 
-  h2 {
-    text-align: ;
-    padding: 15px;
-  }
+.greeting {
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 25px 0 25px 0; 
+}
+/* 
+.aboutMe {
+  text-align: center;
+  padding: 15px 575px 0 150px;
+} */
 
 .aboutMe {
-  text-align: left;
-  padding: 15px;
+  text-align: center;
+  /* padding: 15px 900px 0 150px; */
+}
+
+/* #about-me {
+  text-align: center;
+  padding: 15px 900px 0 150px;
+}
+
+#about {
+  text-align: center;
+  padding: 0px 900px 0 150px;
+} */
+
+
+/* #contact-me {
+  text-align: center;
+  padding 15px 900px 0 150px;
+} */
+/* .aboutMe {
+  text-align: center;
+  padding: 15px 900px 0 150px;
+} */
+
+.projects {
+  text-align: center;
+  /* 15px 125px 0 875px; */
+}
+
+.contact-me {
+  text-align: center;
+  /* padding: 15px 875px 0 125px; */
+}
+
+#contact {
+  font-style: italic;
+  padding: 0 0 800px 0;
+}
+
+#about-me {
+  font-style: italic;
+}
+
+#project-one {
+  text-align: center;
+  /* padding 15px 125px 0 875px;
+} */
+
+#portfolio {
+  text-align: center;
+  padding 15px 125px 0 875px;
+  font-style: italic;
+}
+
+body{
+  flex;
 }
