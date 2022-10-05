@@ -34,7 +34,7 @@
 .greeting {
   font-size: 30px;
   font-weight: bolder;
-  padding: 25px 0 50px 0; 
+  padding: 30px 0 30px 0; 
 }
 /* 
 .aboutMe {
@@ -54,7 +54,7 @@
 
 #about {
   text-align: center;
-  padding: 0px 500px 0 500px;
+  padding: 0px 500px 30px 500px;
 }
 
 
@@ -74,6 +74,7 @@
 
 .contact-me {
   text-align: center;
+  padding: 0 0 30px 0;
   /* padding: 15px 875px 0 125px; */
 }
 
@@ -88,12 +89,13 @@
 
 #project-one {
   text-align: center;
+  padding: 0 0 30px 0;
   /* padding 15px 125px 0 875px;
 } */
 
 #portfolio {
   text-align: center;
-  padding 15px 125px 0 875px;
+  /* padding 15px 125px 0 875px; */
   font-style: italic;
 }
 
