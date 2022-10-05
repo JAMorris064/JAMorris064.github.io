@@ -1,0 +1,3 @@
+ #contact {
+  textAlign: right;
+}

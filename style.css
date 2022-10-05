@@ -25,5 +25,16 @@
   }
 
   h3 {
-    text-align: center;
+    text-align: left;
+    padding: 30px 700px 30px 30px;
   }
+
+  h2 {
+    text-align: ;
+    padding: 15px;
+  }
+
+.aboutMe {
+  text-align: left;
+  padding: 15px;
+}
