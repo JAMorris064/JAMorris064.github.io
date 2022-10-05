@@ -3,20 +3,23 @@
   
   
   body {
+    display: grid;
+   
     background-color: #78bf94;
     height: 100vh; 
     margin: 0;
-    display: grid;
     grid-template-rows: 3rem auto; 
     color: black;
   }
   
-  ul {
+   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: inline-block;
     text-align: center;
+    font-size: larger;
+    font-style: italic;
   }
 
    li {
@@ -31,7 +34,7 @@
 .greeting {
   font-size: 30px;
   font-weight: bolder;
-  padding: 25px 0 25px 0; 
+  padding: 25px 0 50px 0; 
 }
 /* 
 .aboutMe {
@@ -47,12 +50,12 @@
 /* #about-me {
   text-align: center;
   padding: 15px 900px 0 150px;
-}
+}*/
 
 #about {
   text-align: center;
-  padding: 0px 900px 0 150px;
-} */
+  padding: 0px 500px 0 500px;
+}
 
 
 /* #contact-me {
@@ -76,7 +79,7 @@
 
 #contact {
   font-style: italic;
-  padding: 0 0 800px 0;
+  /* padding: 0 0 800px 0; */
 }
 
 #about-me {
