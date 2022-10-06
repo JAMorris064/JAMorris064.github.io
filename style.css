@@ -15,7 +15,7 @@
    ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 30px 0 0 0;
     display: inline-block;
     text-align: center;
     font-size: larger;
@@ -25,6 +25,7 @@
    li {
     display: inline-block;
     text-align: center;
+    padding: 0 30px 0 30px;
   }
 
   h1 {
@@ -34,53 +35,34 @@
 .greeting {
   font-size: 30px;
   font-weight: bolder;
-  padding: 30px 0 30px 0; 
-}
-/* 
-.aboutMe {
-  text-align: center;
-  padding: 15px 575px 0 150px;
-} */
-
-.aboutMe {
-  text-align: center;
-  /* padding: 15px 900px 0 150px; */
+  padding: 30px 0 0px 0; 
 }
 
-/* #about-me {
+#name {
+  font-size: 20px;
+  padding: 0 0 30px 0;
+}
+
+.aboutMe {
   text-align: center;
-  padding: 15px 900px 0 150px;
-}*/
+}
 
 #about {
   text-align: center;
   padding: 0px 500px 30px 500px;
 }
 
-
-/* #contact-me {
-  text-align: center;
-  padding 15px 900px 0 150px;
-} */
-/* .aboutMe {
-  text-align: center;
-  padding: 15px 900px 0 150px;
-} */
-
 .projects {
   text-align: center;
-  /* 15px 125px 0 875px; */
 }
 
 .contact-me {
   text-align: center;
   padding: 0 0 30px 0;
-  /* padding: 15px 875px 0 125px; */
 }
 
 #contact {
   font-style: italic;
-  /* padding: 0 0 800px 0; */
 }
 
 #about-me {
@@ -90,15 +72,16 @@
 #project-one {
   text-align: center;
   padding: 0 0 30px 0;
-  /* padding 15px 125px 0 875px;
-} */
+}
 
 #portfolio {
   text-align: center;
-  /* padding 15px 125px 0 875px; */
   font-style: italic;
 }
 
 body{
   flex;
+}
+.salazar {
+  background-image: url("https://i.imgur.com/YeWaraW.jpg?1")
 }
