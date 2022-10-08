@@ -44,7 +44,7 @@
 }
 
 img {
-  border-radius: 12px;
+  border-radius: 17px;
 }
 
 .aboutMe {
@@ -85,3 +85,7 @@ img {
 
 body{
   flex;}
+
+.pokemon{
+  text-align: center;
+}
